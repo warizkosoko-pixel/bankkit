@@ -5,7 +5,7 @@
 **Production-ready Plaid + Supabase + Next.js starter.**
 Ship a bank-connected app this weekend instead of next month.
 
-[**→ Get BankKit ($49)**](https://GUMROAD_URL_HERE)
+[**→ Get BankKit ($49)**](https://warizko.gumroad.com/l/xvomtz)
 
 </div>
 
@@ -142,7 +142,7 @@ Yes — 14 days, no questions asked. Email me.
 
 ### Stop rebuilding Plaid plumbing.
 
-**[Get BankKit — $49](https://GUMROAD_URL_HERE)**
+**[Get BankKit — $49](https://warizko.gumroad.com/l/xvomtz)**
 
 One-time payment · Unlimited projects · 14-day refund
 
